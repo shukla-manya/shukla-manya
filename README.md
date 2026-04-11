@@ -40,14 +40,6 @@ Welcome to my GitHub! I'm a passionate developer specializing in the **MERN stac
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shukla-manya&show_icons=true&theme=tokyonight" alt="Manya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shukla-manya&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 <br />
 <p align="center">
   <em>⭐️ Feel free to explore my repositories below to see what I've been building! ⭐️</em>
