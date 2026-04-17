@@ -29,7 +29,7 @@ What drives me is the ability to transform ideas into real-world digital product
 
 * 🎓 **B.Tech CSE Student @ JNU (2023–2027)**
 * 🎯 Strong foundation in **Data Structures & Algorithms**
-* 📈 Solved **200+ problems** across coding platforms
+* 📈 Solved **300+ problems** across coding platforms
 * 🧠 Exploring **Machine Learning & AI integrations**
 * ⚡ Hands-on experience in building **production-level full stack applications**
 
@@ -119,8 +119,8 @@ If you're working on something exciting, let’s connect!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANYA-SHUKLA&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANYA-SHUKLA&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shukla-manya&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shukla-manya&theme=tokyonight" height="160"/>
 </p>
 
 ---
