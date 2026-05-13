@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Manya Shukla 👋</h1>
+<h1 align="center">Hey people, I'm Manya Shukla </h1>
 <h3 align="center">Full Stack Developer | App Developer | Crafting Seamless Web & Mobile Apps</h3>
 
 <p align="center">
@@ -29,8 +29,8 @@ What drives me is the ability to transform ideas into real-world digital product
 
 * 🎓 **B.Tech CSE Student @ JNU (2023–2027)**
 * 🎯 Strong foundation in **Data Structures & Algorithms**
-* 📈 Solved **300+ problems** across coding platforms
-* 🧠 Exploring **Machine Learning & AI integrations**
+* 📈 Solved **400+ problems** across coding platforms
+* 🧠 Exploring **Machine Learning**
 * ⚡ Hands-on experience in building **production-level full stack applications**
 
 Over time, I’ve developed a mindset focused on **clean architecture, scalability, and performance optimization**, ensuring that every project I work on is robust and future-ready.
@@ -49,10 +49,8 @@ Over time, I’ve developed a mindset focused on **clean architecture, scalabili
 
 ## 🌱 Currently Exploring
 
-* 🤖 Machine Learning & AI-powered web applications
+* 🤖 Machine Learning 
 * ⚡ Advanced system design concepts
-* 🔄 Real-time systems (WebSockets, live data updates)
-* ☁️ Cloud & deployment strategies
 
 ---
 
